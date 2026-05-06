@@ -1,0 +1,28 @@
+BSD 3-Clause License for Code; CC-BY 4.0-style permission for documentation and dictionaries
+
+Copyright (c) 2026, Jiayu Hua, Bin Qiu, and Jiajie Li
+All rights reserved.
+
+Redistribution and use of the code in source and binary forms, with or without
+modification, are permitted for replication and research purposes provided that
+the following conditions are met:
+
+1. Redistributions of source code must retain this copyright notice, this list of
+   conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce this copyright notice, this list
+   of conditions and the following disclaimer in the documentation and/or other
+   materials provided with the distribution.
+3. Neither the names of the authors nor the names of contributors may be used to
+   endorse or promote products derived from this software without specific prior
+   written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE.
+
+Documentation and dictionary files may be redistributed with attribution for
+replication and academic research.  Third-party code copied under legacy/ remains
+subject to its original authorship and any original license or usage terms.

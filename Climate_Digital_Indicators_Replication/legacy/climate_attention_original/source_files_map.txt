@@ -1,0 +1,7 @@
+Original source files copied from 附件2：复现材料.zip
+
+- PhyClimt_original_Wang2025.py: original Python word-frequency code used to construct the firm-level physical climate-risk text indicator.
+- stata_reproduction_process_original.do: original Stata replication program in the package.
+- original_usage_note.docx: original Chinese note.
+
+Large .dta analysis files from the source zip are not copied here because this package is designed for the indicator construction workflow and public code release.

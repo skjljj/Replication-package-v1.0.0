@@ -1,0 +1,10 @@
+# Core dependencies
+pdfminer.six>=20221105
+PyMuPDF>=1.23.0
+pypdf>=4.0.0
+
+# Recommended for closest replication of Wang (2025) and Annualreport_tools text segmentation
+jieba==0.42.1
+
+# Used only to regenerate the synthetic sample PDF
+reportlab>=4.0.0
