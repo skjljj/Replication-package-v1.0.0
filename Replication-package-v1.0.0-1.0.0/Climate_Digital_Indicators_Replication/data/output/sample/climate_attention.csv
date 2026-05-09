@@ -1,0 +1,2 @@
+﻿code,company,year,file_name,tokenizer,total_word_count,climate_keyword_count,climate_attention,climate_attention_x100
+000001,SampleFirm,2022,000001_SampleFirm_2022.txt,substring,142,10,0.07042253521126761,7.042253521126761

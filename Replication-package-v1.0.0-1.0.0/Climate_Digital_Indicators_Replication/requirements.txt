@@ -1,0 +1,6 @@
+# Core dependencies
+pdfminer.six>=20221105
+PyMuPDF>=1.23.0
+pypdf>=4.0.0
+jieba==0.42.1
+reportlab>=4.0.0
