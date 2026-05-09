@@ -1,2 +1,0 @@
-﻿code,company,year,pdf_path,txt_path,engine,status
-000001,SampleFirm,2022,/mnt/data/Climate_Digital_Indicators_Replication/data/sample/000001_SampleFirm_2022.pdf,data/intermediate/sample_txt/000001_SampleFirm_2022.txt,pdfminer.six,ok
